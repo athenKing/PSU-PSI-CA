@@ -1,0 +1,14 @@
+{
+	"lambda":128,
+	"iknp":{
+		"mLen":128,
+		"bf_capacity":400000,
+		"bf_errorRate":0.05
+	},
+
+	"flajolet":{
+	"wLen":40,
+	"secureParameter":40,
+	"hashingBatchNum":4096
+	}
+}
