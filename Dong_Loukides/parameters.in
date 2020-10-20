@@ -1,0 +1,8 @@
+{
+	"lambda":128,
+	"flajolet":{
+	"wLen":32,
+	"secureParameter":32,
+	"hashingBatchNum":4096
+	}
+}
